@@ -6,7 +6,7 @@
 
 **Data source**: My personal listening history exported from [Spotify](https://open.spotify.com/)
 
-**Features**:
+**Preview**:
 
 - Overview of my listening habits
 
@@ -15,6 +15,29 @@
 - My music trends with slider by year
 
 <img src="images/analysis.png" alt="dashboard-analysis-per-year" width="700" height="350">
+
+- Dashboard preview
+
+<img src="images/preview.gif" alt="dashboard-preview" width="700" height="380">
+
+**How to run**
+1. Clone this repository
+
+```
+git clone https://github.com/jennynguyen1908/my-spotify-analysis.git
+```
+
+2. Install the dependencies
+
+```
+pip install -r requirements.txt
+```
+
+3. Launch streamlit dashboard
+
+```
+streamlit run dashboard.py
+```
 
 ### 📁 Project Structure
 ```
@@ -28,6 +51,6 @@ my-spotify-analysis/
 └── README.md
 ```
 
-### Project Workflow & Toolkits
+### 🛠️ Project Workflow & Toolkits
 <img src="images/workflow.png" alt="workflow-image" width="430" height="400">
 
