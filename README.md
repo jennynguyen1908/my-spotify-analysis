@@ -6,6 +6,8 @@
 
 **Data source**: My personal listening history exported from [Spotify](https://open.spotify.com/)
 
+**Link to Streamlit dashboard**: [My Spotify Dashboard](https://my-spotify-analysis-amn6fyrhny6qvdfzepuxpa.streamlit.app/)
+
 **Preview**:
 
 - Overview of my listening habits
